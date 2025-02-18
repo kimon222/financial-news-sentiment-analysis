@@ -56,10 +56,10 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 </p>  
 
 ***Explanation***:
-- Top Left (TP): True Positive — The model predicted Bullish correctly when the actual sentiment was Bullish.
+- Top Left (TN): True Negative — The model predicted Bearish when the actual sentiment was Bearish.
 - Top Right (FP): False Positive — The model predicted Bullish when the actual sentiment was Bearish.
 - Bottom Left (FN): False Negative — The model predicted Bearish when the actual sentiment was Bullish.
-- Bottom Right (TN): True Negative — The model predicted Bearish correctly when the actual sentiment was Bearish.
+- Bottom Right (TN): True Positive — The model predicted Bullish when the actual sentiment was Bullish.
 
 ***Random Forest Explanation***:
 Random Forest can be visualized as as a team of experts (decision trees). Each expert looks at the same information (the headlines) and makes their own prediction. Then, they all come together and "vote" on the final result. This makes the prediction much more reliable than just one person's opinion (one decision tree).
