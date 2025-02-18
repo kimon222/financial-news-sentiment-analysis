@@ -64,5 +64,5 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 ***Random Forest Explanation***:
 Random Forest can be visualized as as a team of experts (decision trees). Each expert looks at the same information (the headlines) and makes their own prediction. Then, they all come together and "vote" on the final result. This makes the prediction much more reliable than just one person's opinion (one decision tree).
 <p align="left">
-  <img src="./assets/randomforestsguide.png" alt="Random Forests Cartoon Image" width="600" height="400">
+  <img src="./assets/randomforestsguide.png" alt="Random Forests Cartoon Image" width="800" height="400">
 </p>  
