@@ -38,7 +38,7 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 
 **Inputting a Financial Headline for Sentiment Analysis**  
 <p align="left">
-  <img src="./assets/screenshots/output1.png" alt="Financial Headline Results" width="700" height="100">
+  <img src="./assets/screenshots/output1.png" alt="Financial Headline Results" width="700" height="70">
 </p>  
 
 **Displaying the Sentiment Results of the Analysis**  
