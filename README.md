@@ -44,11 +44,22 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 </p>  
 
 **2️⃣Displaying the Sentiment Results of the Analysis**  
+***This is before machine learning, our results from using VADER Sentiment Analysis***
 <p align="left">
   <img src="./assets/screenshots/output2.png" alt="Sentiment Distribution" width="600">
 </p>  
 
 **3️⃣Visualization of the Sentiment Distribution**  
+***This is after machine learning, our results from Random Forest***
 <p align="left">
   <img src="./assets/screenshots/output3.png" alt="Visualization of Sentiment Distribution" width="600">
 </p>  
+
+***Explanation***:
+- Top Left (TP): True Positive — This means the model predicted Bullish correctly when the actual sentiment was also Bullish.
+- Top Right (FN): False Negative — This means the model predicted Bearish when the actual sentiment was Bullish.
+- Bottom Left (FP): False Positive — This means the model predicted Bullish when the actual sentiment was actually Bearish.
+- Bottom Right (TN): True Negative — This means the model predicted Bearish correctly when the actual sentiment was also Bearish.
+
+***Random Forest Explanation***:
+Random Forest can be visualized as as a team of experts (decision trees). Each expert looks at the same information (the headlines) and makes their own prediction. Then, they all come together and "vote" on the final result. This makes the prediction much more reliable than just one person's opinion (one decision tree).
