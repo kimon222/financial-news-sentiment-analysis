@@ -2,11 +2,11 @@
 
 This project uses **Natural Language Processing (NLP)** to classify financial news headlines as **bullish** or **bearish** for stock movement predictions.
 
-## technologies used:
+## Technologies Used:
 - **NLP with VADER**: Sentiment analysis of financial headlines.
 - **Python libraries**: pandas, nltk, matplotlib, scikit-learn.
   
-## description:
+## Details:
 - I applied **VADER** (Valence Aware Dictionary and sEntiment Reasoner) to classify financial news headlines.
 - The sentiment was classified into **Bullish** or **Bearish**, based on the sentiment score.
 
@@ -36,17 +36,17 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 
 ## 📊 Sentiment Analysis Results  
 
-**Inputting a Financial Headline for Sentiment Analysis**  
+**1️⃣Inputting a Financial Headline for Sentiment Analysis**  
 <p align="left">
   <img src="./assets/screenshots/output1.png" alt="Financial Headline Results" width="700" height="50">
 </p>  
 
-**Displaying the Sentiment Results of the Analysis**  
+**2️⃣Displaying the Sentiment Results of the Analysis**  
 <p align="left">
   <img src="./assets/screenshots/output2.png" alt="Sentiment Distribution" width="600">
 </p>  
 
-**Visualization of the Sentiment Distribution**  
+**3️⃣Visualization of the Sentiment Distribution**  
 <p align="left">
   <img src="./assets/screenshots/output3.png" alt="Visualization of Sentiment Distribution" width="600">
 </p>  
