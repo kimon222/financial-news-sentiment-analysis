@@ -32,8 +32,15 @@ Download the VADER lexicon and add it to your project folder or specify the path
 
 Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 
-**Example Usage**
+**Demo**
 
-[demo image here]
+Below are some examples of how the Financial News Sentiment Analysis works:
 
-After running the code, you should see a bar chart displaying the sentiment distribution, indicating how many headlines were classified as bullish and how many were bearish.
+![Example 1: Headline Input](assets/screenshots/output1.png)
+*Caption: Inputting a financial headline for sentiment analysis*
+
+![Example 2: Sentiment Analysis Results](assets/screenshots/output2.png)
+*Caption: Displaying the sentiment results of the analysis*
+
+![Example 3: Sentiment Visualization](assets/screenshots/output3.png)
+*Caption: Visualization of the sentiment distribution*
