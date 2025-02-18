@@ -39,8 +39,8 @@ Below are some examples of how the Financial News Sentiment Analysis works:
 ![Example 1: Headline Input](assets/screenshots/output1.png)
 *Caption: Inputting a financial headline for sentiment analysis*
 
-![Example 2: Sentiment Analysis Results](assets/screenshots/output2.png)
+<img src="./assets/screenshots/output2.png" alt="Sentiment Distribution" width="600">
 *Caption: Displaying the sentiment results of the analysis*
 
-![Example 3: Sentiment Visualization](assets/screenshots/output3.png)
+<img src="./assets/screenshots/output3.png" alt="Visualization of Sentiment Distribution" width="600">
 *Caption: Visualization of the sentiment distribution*
