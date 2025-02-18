@@ -34,13 +34,11 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 
 **Demo**
 
-Below are some examples of how the Financial News Sentiment Analysis works:
+***Inputting a financial headline for sentiment analysis***
+<img src="./assets/screenshots/output1.png" alt="Financial Headline Results" width="30">
 
-![Example 1: Headline Input](assets/screenshots/output1.png)
-*Caption: Inputting a financial headline for sentiment analysis*
-
+***Displaying the sentiment results of the analysis***
 <img src="./assets/screenshots/output2.png" alt="Sentiment Distribution" width="600">
-*Caption: Displaying the sentiment results of the analysis*
 
+***Visualization of the sentiment distribution***
 <img src="./assets/screenshots/output3.png" alt="Visualization of Sentiment Distribution" width="600">
-*Caption: Visualization of the sentiment distribution*
