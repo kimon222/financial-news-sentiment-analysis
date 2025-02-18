@@ -1,6 +1,6 @@
 # Financial News Sentiment Analysis
 
-![Stock Chart Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV4MTkxb2YwNW43ZWYxZ2M5c3NjcTU4bThtZTg1dW9xc3I3OW12YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mc1yxvp8fIGuYXHJI0/giphy.gif)
+![Stock Chart Gif](./assets/stock_chart.gif)
 
 This project uses **Natural Language Processing (NLP)** to classify financial news headlines as **bullish** or **bearish** for stock movement predictions.
 
