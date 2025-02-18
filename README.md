@@ -34,19 +34,19 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 
 **Demo**
 
-### 📊 Sentiment Analysis Results  
+## 📊 Sentiment Analysis Results  
 
 **Inputting a Financial Headline for Sentiment Analysis**  
-<p align="center">
-  <img src="./assets/screenshots/output1.png" alt="Financial Headline Results" width="400">
+<p align="left">
+  <img src="./assets/screenshots/output1.png" alt="Financial Headline Results" width="200">
 </p>  
 
 **Displaying the Sentiment Results of the Analysis**  
-<p align="center">
+<p align="left">
   <img src="./assets/screenshots/output2.png" alt="Sentiment Distribution" width="600">
 </p>  
 
 **Visualization of the Sentiment Distribution**  
-<p align="center">
+<p align="left">
   <img src="./assets/screenshots/output3.png" alt="Visualization of Sentiment Distribution" width="600">
 </p>  
