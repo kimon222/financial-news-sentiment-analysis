@@ -55,14 +55,14 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
   <img src="./assets/screenshots/output3.png" alt="Visualization of Sentiment Distribution" width="600">
 </p>  
 
-***Explanation***:
+***Chart Explanation***:
 - Top Left (TN): True Negative — The model predicted Bearish when the actual sentiment was Bearish.
 - Top Right (FP): False Positive — The model predicted Bullish when the actual sentiment was Bearish.
 - Bottom Left (FN): False Negative — The model predicted Bearish when the actual sentiment was Bullish.
 - Bottom Right (TN): True Positive — The model predicted Bullish when the actual sentiment was Bullish.
 
-***Random Forest Explanation***:
-<span style="color: green">Random Forest</span> can be visualized as as a team of experts (decision trees). Each expert looks at the same information (the headlines) and makes their own prediction. Then, they all come together and "vote" on the final result. This makes the prediction much more reliable than just one person's opinion (one decision tree).
+***🌲Random Forest Explanation***:
+Random Forest can be visualized as as a team of experts (decision trees). Each expert looks at the same information (the headlines) and makes their own prediction. Then, they all come together and "vote" on the final result. This makes the prediction much more reliable than just one person's opinion (one decision tree).
 <p align="left">
   <img src="./assets/randomforestsguide.png" alt="Random Forests Cartoon Image" width="800" height="400">
 </p>  
