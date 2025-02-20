@@ -64,5 +64,13 @@ Run the Jupyter Notebook or Python script to see sentiment analysis in action.
 ***🌲Random Forest Explanation***:
 Random Forest can be visualized as as a team of experts (decision trees). Each expert looks at the same information (the financial headlines) and makes their own prediction. Then, they all come together and "vote" on the final result. This makes the prediction much more reliable than just one person's opinion (one decision tree).
 <p align="left">
-  <img src="./assets/randomforestsguide.png" alt="Random Forests Cartoon Image" width="800" height="400">
+  <img src="./assets/randomforestsguide.png" alt="Random Forests Cartoon Image" width="700" height="400">
 </p>  
+
+## 🌱 Limitations
+- VADER may not fully capture sarcasm or nuanced language in financial headlines, potentially leading to sentiment classification inaccuracies.
+- The model’s performance is dependent on the quality and diversity of the training data, which may not always represent the market's condition.
+
+## 🌱 Ideas for Future Improvement 
+- Enhance the project by adding more advanced NLP models (BERT, GPT) for a deeper understanding of context and subtleties in financial language.
+- Include features like stock volumes or historical price data to improve the models prediction accuracy - by combining sentiment with technical indicators.
